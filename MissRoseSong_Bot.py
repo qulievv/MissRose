@@ -37,8 +37,8 @@ def start(client, message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton('Owner🎸', url='https://t.me/mr_dark_prince'),
-                    InlineKeyboardButton('Source💿', url='https://github.com/Mr-Dark-Prince/MissRose')
+                    InlineKeyboardButton('Owner🎸', url='https://t.me/quliyevv_17'),
+                    InlineKeyboardButton('Source💿', url='https://github.com/qulievv/RavenSong')
                 ]
             ]
         )
